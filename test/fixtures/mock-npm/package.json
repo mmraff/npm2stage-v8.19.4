@@ -1,0 +1,22 @@
+{
+  "name": "npm",
+  "version": "8.19.4",
+  "description": "A mock-up of an npm-cli installation",
+  "main": "./lib/npm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmraff/npm-two-stage.git"
+  },
+  "keywords": [
+    "mock"
+  ],
+  "author": "Matthew Rafferty",
+  "license": "Artistic-2.0",
+  "bugs": {
+    "url": "https://github.com/mmraff/npm-two-stage/issues"
+  },
+  "homepage": "https://github.com/mmraff/npm-two-stage/tree/npm8.19.4#readme"
+}
